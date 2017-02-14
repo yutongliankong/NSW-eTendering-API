@@ -1,0 +1,7 @@
+D:\APIDeveloperPortal\EtrApiSample\EtrApiSample\bin\Debug\EtrApiSample.dll
+D:\APIDeveloperPortal\EtrApiSample\EtrApiSample\bin\Debug\EtrApiSample.pdb
+D:\APIDeveloperPortal\EtrApiSample\EtrApiSample\obj\Debug\EtrApiSample.dll
+D:\APIDeveloperPortal\EtrApiSample\EtrApiSample\obj\Debug\EtrApiSample.pdb
+D:\APIDeveloperPortal\EtrApiSample\EtrApiSample\bin\Debug\Newtonsoft.Json.dll
+D:\APIDeveloperPortal\EtrApiSample\EtrApiSample\bin\Debug\Newtonsoft.Json.xml
+D:\APIDeveloperPortal\EtrApiSample\EtrApiSample\obj\Debug\EtrApiSample.csprojResolveAssemblyReference.cache

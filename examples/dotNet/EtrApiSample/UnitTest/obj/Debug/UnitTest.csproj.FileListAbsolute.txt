@@ -1,0 +1,11 @@
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\UnitTest.dll
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\UnitTest.pdb
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\EtrApiSample.dll
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\EtrApiSample.pdb
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\obj\Debug\UnitTest.dll
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\obj\Debug\UnitTest.pdb
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\APIDeveloperPortal\EtrApiSample\UnitTest\bin\Debug\Newtonsoft.Json.xml
